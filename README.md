@@ -16,9 +16,6 @@ The project leverages the **MERN** stack (MongoDB, Express, React, Node.js) for 
 
 - **Frontend**:
   - **React (Vite)**: For a fast, component-based user interface.
-  - **Vanilla CSS**: Custom styling with glassmorphism and CSS variables.
-  - **Lucide-React**: For a modern and consistent icon system.
-  - **Axios**: For structured API communication and interceptor-based auth handling.
 - **Backend**:
   - **Node.js & Express**: Handling RESTful API logic and routing.
   - **MongoDB & Mongoose**: Document-based storage with schema validation.
@@ -68,17 +65,6 @@ The project leverages the **MERN** stack (MongoDB, Express, React, Node.js) for 
 - **Contact Form (Public)**: `http://localhost:5173`
 - **Admin Portal (Login)**: `http://localhost:5173/login`
 - **Default Credentials**: `admin@example.com` / `password123`
-
-## 4. Contributions
-We welcome contributions to improve Future CRM! If you'd like to contribute, please follow these steps:
-
-1. **Fork** the repository.
-2. **Create a branch** for your feature or bug fix (`git checkout -b feature/NewFeature`).
-3. **Commit** your changes with descriptive messages.
-4. **Push** to the branch (`git push origin feature/NewFeature`).
-5. **Open a Pull Request** explaining your changes.
-
-Whether it's reporting a bug, suggesting a feature, or writing code, all contributions are appreciated.
 
 ---
 *Developed as part of the Future_FS_02 project.*
