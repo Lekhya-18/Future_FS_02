@@ -1,6 +1,5 @@
 # Dependency directories
-node_modules/
-
+node_modules
 # Build outputs
 client/dist/
 server/dist/
